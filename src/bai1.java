@@ -3,5 +3,6 @@ public class bai1 {
         System.out.println("Hello word");
         System.out.println(1234567890);
         System.out.println("%%%");
+        System.out.println("%%%");
     }
 }
