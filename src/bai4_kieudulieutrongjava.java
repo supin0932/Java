@@ -1,4 +1,4 @@
-public class bai4 {
+public class bai4_kieudulieutrongjava {
     public static void main(String[] args) {
         // Kiểm tra kiểu nguyên
         System.out.println("max của kiểu int" +Integer.MAX_VALUE);

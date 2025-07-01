@@ -1,4 +1,4 @@
-public class bai3 {
+public class bai3_ghichu {
     public static void main(String[] args) {
         // đây là ghi chú 1 dòng
         System.out.println("dòng 1");

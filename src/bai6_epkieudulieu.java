@@ -1,4 +1,4 @@
-public class bai6 {
+public class bai6_epkieudulieu {
     public static void main(String[] args) {
         int a=5;
         int b=10;

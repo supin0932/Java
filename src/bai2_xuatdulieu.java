@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
-
-public class bai2 {
+public class bai2_xuatdulieu {
     public static void main(String[] args) {
         System.out.println("dòng 1"); //sout
         System.out.println("dòng 2"); //sout
