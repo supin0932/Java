@@ -12,11 +12,11 @@ public class bai5 {
         float diemVan = 7.5f;
         double diemAnh = 7.5;
         System.out.println(tuoiCon);
-        tuoiCon=15;
+        tuoiCon = 15;
         System.out.println(tuoiCon);
 
         //hằng số
-        final int DOISO=100;
-        int tuoicon = 30;
+        final int DOSOI = 100;
+
     }
 }
